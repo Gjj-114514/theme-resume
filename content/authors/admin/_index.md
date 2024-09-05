@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Master student in Applied Statistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: University of Michigan
     url: https://www.example.com/
 
 # Social network links
